@@ -1,0 +1,12 @@
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\TesteImc\teste\bin\Debug\net6.0\OperacoesImc.deps.json
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\TesteImc\teste\bin\Debug\net6.0\OperacoesImc.dll
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\TesteImc\teste\bin\Debug\net6.0\OperacoesImc.pdb
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\TesteImc\teste\obj\Debug\net6.0\OperacoesImc.csproj.AssemblyReference.cache
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\TesteImc\teste\obj\Debug\net6.0\OperacoesImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\TesteImc\teste\obj\Debug\net6.0\OperacoesImc.AssemblyInfoInputs.cache
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\TesteImc\teste\obj\Debug\net6.0\OperacoesImc.AssemblyInfo.cs
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\TesteImc\teste\obj\Debug\net6.0\OperacoesImc.csproj.CoreCompileInputs.cache
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\TesteImc\teste\obj\Debug\net6.0\OperacoesImc.dll
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\TesteImc\teste\obj\Debug\net6.0\refint\OperacoesImc.dll
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\TesteImc\teste\obj\Debug\net6.0\OperacoesImc.pdb
+C:\Users\brup1\OneDrive\Área de Trabalho\Curso\UC12\TesteImc\teste\obj\Debug\net6.0\ref\OperacoesImc.dll
